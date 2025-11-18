@@ -1,0 +1,7 @@
+README.md
+setup.py
+openwakeword.egg-info/PKG-INFO
+openwakeword.egg-info/SOURCES.txt
+openwakeword.egg-info/dependency_links.txt
+openwakeword.egg-info/requires.txt
+openwakeword.egg-info/top_level.txt
