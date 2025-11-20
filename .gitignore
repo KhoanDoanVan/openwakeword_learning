@@ -6,4 +6,8 @@
 README.md
 
 
-./ data
+data
+
+src/negative_features.npy
+
+src/turn_on_the_office_lights_features.npy
